@@ -1,0 +1,33 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.project
+.settings
+.classpath
+.DS_Store
+target
+/node_modules
+
+# logs #
+logs
+
+# idea # 
+.idea
+trainanget-tesla\.idea
+trainanget-tesla/.idea
+*.iml
+/bin/*
+
+# testng #
+/*/test-output
+
+Servers
+.metadata
+
+trainanget-tesla/.externalToolBuilders/org.eclipse.wst.jsdt.core.javascriptValidator.launch
+
+
